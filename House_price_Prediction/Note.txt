@@ -1,0 +1,5 @@
+* If prediction button is not working
+
+Steps:- 1)Then open index.html form Front_End 
+	2) Copy path from Back_End->Client->app.html
+	3) Past in index.html, at line number 402

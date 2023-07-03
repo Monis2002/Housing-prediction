@@ -1,0 +1,60 @@
+body{
+  text-align:center;
+    background-image: url(static/images/hero-side-bg.png);
+   background-color: #B9EDDD
+}
+
+.cloud-1{
+  position: relative;
+  left: 500px;
+  bottom: 300px;
+}
+.cloud-2{
+  position: absolute;
+  left: 1400px;
+  bottom: 800px;
+}
+
+.h1-1{
+position: absolute;
+left: 45%;
+bottom: 100px;
+font-family: 'Lobster', cursive;
+font-size: 4rem;
+color:red;
+}
+
+.house-1{
+  position: relative;
+  left: 20%;
+}
+
+.house-1{
+  position: relative;
+  left: 700px;
+  bottom: 200px;
+}
+
+.section_1{
+  background-color: #A6D0DD;
+  padding: 400px 1800px 200px 200px;
+  padding-bottom: 0px;
+  position: relative;
+  right: 500px;
+
+}
+
+.my_btn:hover{
+  color: #FF6969;
+  font-size:1em;
+}
+
+.p1{
+  font-family: 'Kalam', cursive;
+  font-size: 2rem;
+
+}
+
+.pad_high{
+    padding:100px;
+}
